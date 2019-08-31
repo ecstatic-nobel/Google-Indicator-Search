@@ -1,5 +1,5 @@
 # [Google Indicator Search]  
-##### Programmatically find the relationship of a list of strings using Google.  
+##### Programmatically find relationships between a list of strings using Google.  
 
 ### Use Cases  
 - Detect signs of potential threats in public places  
