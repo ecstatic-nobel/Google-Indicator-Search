@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Programmatically find the relationship of a list of strings using Google.
+Programmatically find relationships between a list of strings using Google.
 
 Usage: python3 googleIndicatorSearch.py
 """
@@ -44,4 +44,3 @@ def return_results():
     return
 
 return_results()
-
